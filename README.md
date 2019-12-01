@@ -26,3 +26,9 @@ https://asmz.hatenablog.jp/entry/setup-ios-universal-links-and-deploy-to-firebas
 
 Firebase Hostingを使ってポートフォリオサイトを無料で公開する方法<br>
 https://webdesign-trends.net/entry/9692
+
+## MEMO
+
+```
+[AutoFill] Cannot show Automatic Strong Passwords for app bundleID: com.sample.AutoFill due to error: Cannot save passwords for this app. Make sure you have set up Associated Domains for your app and AutoFill Passwords is enabled in Settings
+```
